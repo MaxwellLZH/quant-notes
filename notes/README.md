@@ -15,8 +15,8 @@ link: https://zhuanlan.zhihu.com/p/38276041
 #### 用IC衡量因子的改进方法
 通常用correlation或rank correlation来衡量因子和收益之间的关联。
 ![](https://pic4.zhimg.com/80/v2-a2fa84b1638a1b9f51d754b5320ce143_720w.jpg)
-但从上图中来看同样的correlation，左图的因子最大值对应收益最大，但右图不然  
-**结论：**除了关注correlation，还要看头部的lift 
+但从上图中来看同样的correlation，左图的因子最大值对应收益最大，但右图不然
+__结论除了关注correlation，还要看头部的lift__
 
 link: https://zhuanlan.zhihu.com/p/41454197
 
