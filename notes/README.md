@@ -3,12 +3,22 @@
 #### 移动平均本质
 移动平均是在平滑度和滞后性之间的权衡。好的移动平均指标在保证平滑度的时候尽可能减小滞后性。
 
-ex. 
+ex.
 - 赫尔移动平均（HMA)
 - 分形自适应移动平均
 
 link: https://zhuanlan.zhihu.com/p/38276041
 
+
+# 量化因此
+
+#### 用IC衡量因子的改进方法
+通常用correlation或rank correlation来衡量因子和收益之间的关联。
+![](https://pic4.zhimg.com/80/v2-a2fa84b1638a1b9f51d754b5320ce143_720w.jpg)
+但从上图中来看同样的correlation，左图的因子最大值对应收益最大，但右图不然  
+**结论：**除了关注correlation，还要看头部的lift 
+
+link: https://zhuanlan.zhihu.com/p/41454197
 
 
 # 统计模型  
@@ -25,5 +35,5 @@ link: https://zhuanlan.zhihu.com/p/40681570
 
 
 #### 凯利公式
-**凯利公式最优化单期对数收益**
+凯利公式核心：最优化单期对数收益
 link: https://zhuanlan.zhihu.com/p/38279377
